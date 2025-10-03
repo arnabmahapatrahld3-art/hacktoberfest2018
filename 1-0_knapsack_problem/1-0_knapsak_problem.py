@@ -1,4 +1,4 @@
-""" Knapsack problem by dynamic programming """
+ """ Knapsack problem by dynamic programming """
 weight = [1,3,4,5]
 value = [1,4,5,7]
 n = len(weight)+1
