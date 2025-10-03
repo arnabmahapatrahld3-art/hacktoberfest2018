@@ -6,10 +6,10 @@ for _ in range(T):
     l=list(Str)
     length=len(l)
     for i in range(length):
-        if l[i]=='(':
+         if l[i]=='(':
             count+=1
-        else:
+         else:
             count-=1
-        if count==0:
+         if count==0:
             sum1+=1
     print(sum1)
